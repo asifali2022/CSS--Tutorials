@@ -1,0 +1,9 @@
+
+/* using rgb method */
+p {
+   color:  rgb(255, 204, 102);
+}
+/* using rgba method */
+p {
+    color:  rgba(255, 204, 102,0.3);
+ }
